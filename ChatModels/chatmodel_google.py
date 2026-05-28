@@ -7,4 +7,5 @@ models= ChatGoogleGenerativeAI(model="gemini-3.5-flash")
 
 result=models.invoke("What is the capital of india?")
 
-print(result.content)
+# Access the text element in the first block
+print(result.content[0]['text'])

@@ -20,3 +20,7 @@ python-dotenv
 langchain-huggingface
 huggingface-hub
 transformers
+
+
+numpy
+scikit-learn
