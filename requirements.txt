@@ -24,3 +24,5 @@ transformers
 
 numpy
 scikit-learn
+
+streamlit
